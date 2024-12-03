@@ -1,4 +1,7 @@
 # MineBuild
+## A Good Place
+![a_good_place-gif001](https://github.com/user-attachments/assets/3962aa24-aa8b-4463-b24f-2d0252417a12)
+> При уклоне в фулл адд-он Ванилу, визуальная составляющая - наше всё.
 ___________
 ## World Play Time
 ![image](https://github.com/user-attachments/assets/8644003f-73a4-4664-a844-aae8ae726a83)
